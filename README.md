@@ -1,2 +1,2 @@
-# blackstone
-Blackstone, the open source risk management program.
+# Iuris
+Iuris, the open source risk management program.
